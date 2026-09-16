@@ -1,2 +1,1 @@
-# movere-kinesiologia
-Aplicación full-stack para un centro de kinesiología con Flask y Angular.
+<img src="https://media.tenor.com/GQAsycjoZG8AAAAi/scuba-scuba-cat.gif">
